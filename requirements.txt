@@ -2,7 +2,7 @@ numpy
 pandas
 opencv-python
 streamlit
-tenserflow
+tensorflow
 pillow
 av
 tqdm
